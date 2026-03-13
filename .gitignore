@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .DS_Store
 drive/
-*.csv
+customer_booking.csv
 *.txt
 
 print(".gitignore created and updated.")
